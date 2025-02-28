@@ -53,8 +53,6 @@ The goal of this project is to analyze reading habits in Indonesia and understan
 
 ---
 
-## File Structure
-
 ### Main Branch
 The `main` branch contains the core files for the project:
 - **`Assignment3_CharissaUtasa.ipynb`**: Jupyter Notebook for Assignment 3.
@@ -131,3 +129,4 @@ Run the notebooks to reproduce the analysis or modify them for further explorati
 3. **Data Source**: Mentioned the additional PISA dataset used in Assignment 4.
 4. **Key Insights**: Expanded to include insights from Assignments 4 and 5, such as data merging and compound keys.
 5. **User-Friendly**: Made the instructions clear and concise for anyone who wants to use or contribute to the project.
+
